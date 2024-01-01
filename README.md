@@ -8,4 +8,4 @@ This Cinema Management System is a Python-based application tailored for cinemas
 - **User Authentication**: Includes functionalities for users and staff to sign up and log in.
 - **Movie Management**: Provides the ability to add, remove, and check available seats for movies.
 
-© <2021> <Jana-Abu-Hantash>.
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2021>`.
